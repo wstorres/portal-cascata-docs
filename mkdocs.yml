@@ -1,7 +1,16 @@
-site_name: Portal Cascata - Docs
+site_name: Portal Suporte Tecnico - Docs
 
 pages:
   - Home: index.md
+  - Service Desk SC: ServiceDeskSC.md
+    - SO Windows 10:
+    - SO Linux Ubuntu:
+    - ERP MV:
+    - Desktop:
+    - Notebook:
+    - Impressora:
+    - Totem:
+    - Painel TV:
   - Justificativa Metodológica: justificativa.md
   - Modelagem de Processo: processo.md
   - Engenharia de Requisitos:
