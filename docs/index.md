@@ -20,4 +20,4 @@ ministrada no curso de Engenharia de *Software* da Universidade de Brasília.
 | Felipe de Oliveira Hargreaves | fhargreaves00@gmail.com | [hargre](https://github.com/Hargre) |  15/0009313 |
 |      Halê Valente Silva       | halevalente@gmail.com |[halevalente](https://github.com/halevalente)|  13/0010014 |
 |    Letícia de Souza Santos    | leticia.souza212@gmail.com| [leticiadesouza](https://github.com/leticiadesouza)|  15/0015160 |
-|     Mariana Nunes Pícolo      | mariananpicolo@gmail.com | [marianapicolo](https://github.com/marianapicolo)| 15/0017502 |
+|     Wagner da Silva Torres    | wav.torres@gmail.com | [marianapicolo](https://github.com/wstorres)| 15/0017502 |
